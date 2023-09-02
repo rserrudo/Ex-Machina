@@ -8,7 +8,7 @@ Esta película trata sobre todo de la inteligencia artificial .
 Durante una escena que se desarrolla en el centro de control de Nathan, el director nos deja vislumbrar el código en las distintas pantallas.
 
 Para ejecutar el código es necesario instalar Python, Si estas en linux:
-
+  
 ```bash
 apt install python
 ```
@@ -19,4 +19,4 @@ python code.py
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
